@@ -8,4 +8,4 @@ https://cerebrator.herokuapp.com/
 
 
 ## 😄 Acknowledgement --
-Inspired from https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1 tutorial.
+Inspired from the tutorial - https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1 .
