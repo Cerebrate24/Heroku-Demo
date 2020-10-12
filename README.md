@@ -1,4 +1,4 @@
-# Heroku-Demo --
+# Heroku-Demo 
 
 This repo contains a simple trial for deployment on Heroku which is basically a salary prediction model using linear regression.
 
